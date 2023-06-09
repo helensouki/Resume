@@ -1,11 +1,5 @@
 ## Helen C. Souki Reyes, M.A. Candidate.
 
-### Contact Information
-
-Mail Adress: outlook@mail.com
-
-Phone Number: 202-000-000
-
 ### Description
 Academically rigorous and detail-oriented second-year graduate student of the MA program in International Affairs: Global Governance, Politics, and Security at American University’s School of International Service. Experienced in conducting qualitative and quantitative research in the fields of Political Science and International Affairs. Achieved professional when applying my strong technical skills in data collection and analysis for policy questions related to multilateral aid contributions, democratic backsliding, international security, and peacebuilding.
 
