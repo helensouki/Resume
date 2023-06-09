@@ -36,10 +36,9 @@ Academically rigorous and detail-oriented second-year graduate student of the MA
 - Data Analysis: 
   - Data Collection.
   - Data Management.
-  - Data Cleaning.
   - Dada Wrangling.
   - Data Analysis.
-  - Data Modeling.
+  - Data Modelling.
   - Data Visualization.
 - Statistics and Econometrics: 
   - Descriptive Statistics.
